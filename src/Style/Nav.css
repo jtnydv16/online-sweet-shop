@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap");
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  flex-direction: row;
+  background-color: rgb(255, 255, 255);
+  color: #18a0fb;
+}
+.nav-links {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.navStyle {
+  color: #18a0fb;
+  font-family: "Lato", "Arial", sans-serif;
+  text-decoration: none;
+}
